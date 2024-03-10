@@ -1,9 +1,4 @@
-<h2 align="left">Hi 👋! Mohd Ashfaq here, a Data Scientist passionate about transforming data into impactful solutions. I've pioneered Gesture Recognition for seamless human-computer interaction and crafted Recommendation Systems for social media platforms. Committed to building products that contribute to societal welfare. Let's innovate with data! 
-
-
-
-
-
+<h2 align="left">Hi! Abdul Hadi Ali here, a Data Scientist passionate about transforming data into impactful solutions. I've pioneered Gesture Recognition for seamless human-computer interaction and crafted Recommendation Systems for social media platforms. Committed to building products that contribute to societal welfare. Let's innovate with data! 
 </h2>
 
 ###
@@ -31,39 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
-
-<div align="left">
-  <a href="[Your YouTube Link]">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="[Your Instagram Link]">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="[Your Twitch Link]">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
-  <a href="[Your Discord Link]">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="[Your Gmail Link]">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="[Your LinkedIn Link]">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
-
-
-<br clear="both">
-
-
-###
-
-# Blog Content Generator
+# Blog Generation Llamma 2
 
 <img ![Screenshot 2024-02-26 164405](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2/assets/120010803/85d6f793-6b2b-446a-9ea0-a302f2173242)
 
@@ -109,7 +75,7 @@ Check out the live demo of the project [here](https://www.linkedin.com/posts/ash
 
 ## Installation
 To run the project locally, follow these steps:
-1. Clone the repository: git clone[ https://github.com/yourusername/your-repository.git](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2.git)
+1. Clone the repository: git clone[ https://github.com/yourusername/your-repository.git](https://github.com/Abde-Ali/Blog-Generation--Llama-2.git)
 2. Install dependencies: pip install -r requirements.txt
 3. Run the demo server: python app.py
 4. Access the demo in your web browser at http://localhost:5000
