@@ -29,7 +29,7 @@
 
 ###
 
-# Blog Generation Llamma 2
+# Blog Generation Llama 2
 
 <img ![Screenshot 2024-02-26 164405](https://github.com/ashfaq-khan14/Generate-Blog-LLAMA2/assets/120010803/85d6f793-6b2b-446a-9ea0-a302f2173242)
 
